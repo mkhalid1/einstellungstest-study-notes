@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../README.md#inhalt) · Zurück: [Für Schulabgänger und Ausbildungsbewerber](schulabgaenger.md) · Weiter: [Häufige Fragen](faq.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../README.md#inhalt) · Zurück: [Für Schulabgänger und Ausbildungsbewerber](schulabgaenger.md) · Weiter: [Häufige Fragen](faq.md)
+<!-- /nav:top -->
 
 # Checkliste für den Testtag
 
@@ -46,4 +48,6 @@ Quellen: [Bundesagentur für Arbeit, Orientierungshilfe zu Auswahltests](https:/
 
 ---
 
-<!-- nav:bottom -->← Zurück: [Für Schulabgänger und Ausbildungsbewerber](schulabgaenger.md) | Weiter: [Häufige Fragen](faq.md) → | [Zurück zum Inhalt](../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [Für Schulabgänger und Ausbildungsbewerber](schulabgaenger.md) | Weiter: [Häufige Fragen](faq.md) → | [Zurück zum Inhalt](../README.md#inhalt)
+<!-- /nav:bottom -->

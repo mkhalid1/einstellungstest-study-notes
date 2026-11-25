@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../README.md#inhalt) · Zurück: [Häufige Fragen](faq.md) · Weiter: [Quellen](sources.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../README.md#inhalt) · Zurück: [Häufige Fragen](faq.md) · Weiter: [Quellen](sources.md)
+<!-- /nav:top -->
 
 # Glossar
 
@@ -58,4 +60,6 @@
 
 ---
 
-<!-- nav:bottom -->← Zurück: [Häufige Fragen](faq.md) | Weiter: [Quellen](sources.md) → | [Zurück zum Inhalt](../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [Häufige Fragen](faq.md) | Weiter: [Quellen](sources.md) → | [Zurück zum Inhalt](../README.md#inhalt)
+<!-- /nav:bottom -->

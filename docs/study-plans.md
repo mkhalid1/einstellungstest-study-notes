@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../README.md#inhalt) · Zurück: [Zeit und Tempo](timing.md) · Weiter: [Für Schulabgänger und Ausbildungsbewerber](schulabgaenger.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../README.md#inhalt) · Zurück: [Zeit und Tempo](timing.md) · Weiter: [Für Schulabgänger und Ausbildungsbewerber](schulabgaenger.md)
+<!-- /nav:top -->
 
 # Lernpläne: 7 Tage und 2 Tage
 
@@ -59,4 +61,6 @@ Wenn du nur einen Abend hast: Mach von Tag 1 die Blöcke 1, 2 und 4 und schreib 
 
 ---
 
-<!-- nav:bottom -->← Zurück: [Zeit und Tempo](timing.md) | Weiter: [Für Schulabgänger und Ausbildungsbewerber](schulabgaenger.md) → | [Zurück zum Inhalt](../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [Zeit und Tempo](timing.md) | Weiter: [Für Schulabgänger und Ausbildungsbewerber](schulabgaenger.md) → | [Zurück zum Inhalt](../README.md#inhalt)
+<!-- /nav:bottom -->

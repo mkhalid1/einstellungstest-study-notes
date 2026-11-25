@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../README.md#inhalt) · Zurück: [Übersicht](../README.md) · Weiter: [15-Minuten-Diagnose](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../README.md#inhalt) · Zurück: [Übersicht](../README.md) · Weiter: [15-Minuten-Diagnose](diagnostic.md)
+<!-- /nav:top -->
 
 # Der Einstellungstest erklärt
 
@@ -68,4 +70,6 @@ Lesen allein reicht nicht. Mach mindestens einen vollständigen Durchgang mit Uh
 
 ---
 
-<!-- nav:bottom -->← Zurück: [Übersicht](../README.md) | Weiter: [15-Minuten-Diagnose](diagnostic.md) → | [Zurück zum Inhalt](../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [Übersicht](../README.md) | Weiter: [15-Minuten-Diagnose](diagnostic.md) → | [Zurück zum Inhalt](../README.md#inhalt)
+<!-- /nav:bottom -->

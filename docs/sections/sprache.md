@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../../README.md#inhalt) · Zurück: [Logik und Zahlenreihen](logik.md) · Weiter: [Wortschatz und Analogien](wortschatz.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../../README.md#inhalt) · Zurück: [Logik und Zahlenreihen](logik.md) · Weiter: [Wortschatz und Analogien](wortschatz.md)
+<!-- /nav:top -->
 
 # Sprache: Rechtschreibung, Grammatik, Zeichensetzung
 
@@ -105,4 +107,6 @@ Rechtschreibung lässt sich gut nebenbei trainieren: Lies jeden Tag einen Zeitun
 
 ---
 
-<!-- nav:bottom -->← Zurück: [Logik und Zahlenreihen](logik.md) | Weiter: [Wortschatz und Analogien](wortschatz.md) → | [Zurück zum Inhalt](../../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [Logik und Zahlenreihen](logik.md) | Weiter: [Wortschatz und Analogien](wortschatz.md) → | [Zurück zum Inhalt](../../README.md#inhalt)
+<!-- /nav:bottom -->

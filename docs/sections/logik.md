@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../../README.md#inhalt) · Zurück: [Mathe](mathe.md) · Weiter: [Rechtschreibung und Grammatik](sprache.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../../README.md#inhalt) · Zurück: [Mathe](mathe.md) · Weiter: [Rechtschreibung und Grammatik](sprache.md)
+<!-- /nav:top -->
 
 # Logik und Zahlenreihen
 
@@ -113,4 +115,6 @@ Zahlenreihen werden mit Übung deutlich schneller, weil sich die Regeltypen wied
 
 ---
 
-<!-- nav:bottom -->← Zurück: [Mathe](mathe.md) | Weiter: [Rechtschreibung und Grammatik](sprache.md) → | [Zurück zum Inhalt](../../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [Mathe](mathe.md) | Weiter: [Rechtschreibung und Grammatik](sprache.md) → | [Zurück zum Inhalt](../../README.md#inhalt)
+<!-- /nav:bottom -->

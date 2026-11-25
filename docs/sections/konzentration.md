@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../../README.md#inhalt) · Zurück: [Allgemeinwissen](allgemeinwissen.md) · Weiter: [So wird ausgewertet](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../../README.md#inhalt) · Zurück: [Allgemeinwissen](allgemeinwissen.md) · Weiter: [So wird ausgewertet](../scoring.md)
+<!-- /nav:top -->
 
 # Konzentration
 
@@ -117,4 +119,6 @@ Konzentration lässt sich trainieren, aber nur, wenn du ausgeschlafen übst. Mac
 
 ---
 
-<!-- nav:bottom -->← Zurück: [Allgemeinwissen](allgemeinwissen.md) | Weiter: [So wird ausgewertet](../scoring.md) → | [Zurück zum Inhalt](../../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [Allgemeinwissen](allgemeinwissen.md) | Weiter: [So wird ausgewertet](../scoring.md) → | [Zurück zum Inhalt](../../README.md#inhalt)
+<!-- /nav:bottom -->

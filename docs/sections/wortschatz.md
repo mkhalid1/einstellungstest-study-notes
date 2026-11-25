@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../../README.md#inhalt) · Zurück: [Rechtschreibung und Grammatik](sprache.md) · Weiter: [Allgemeinwissen](allgemeinwissen.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../../README.md#inhalt) · Zurück: [Rechtschreibung und Grammatik](sprache.md) · Weiter: [Allgemeinwissen](allgemeinwissen.md)
+<!-- /nav:top -->
 
 # Wortschatz und Analogien
 
@@ -96,4 +98,6 @@ Wortschatz wächst am schnellsten durch Lesen. Notiere dir unbekannte Wörter au
 
 ---
 
-<!-- nav:bottom -->← Zurück: [Rechtschreibung und Grammatik](sprache.md) | Weiter: [Allgemeinwissen](allgemeinwissen.md) → | [Zurück zum Inhalt](../../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [Rechtschreibung und Grammatik](sprache.md) | Weiter: [Allgemeinwissen](allgemeinwissen.md) → | [Zurück zum Inhalt](../../README.md#inhalt)
+<!-- /nav:bottom -->

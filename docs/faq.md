@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../README.md#inhalt) · Zurück: [Checkliste für den Testtag](test-day-checklist.md) · Weiter: [Glossar](glossary.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../README.md#inhalt) · Zurück: [Checkliste für den Testtag](test-day-checklist.md) · Weiter: [Glossar](glossary.md)
+<!-- /nav:top -->
 
 # Häufige Fragen
 
@@ -50,4 +52,6 @@ Die Bundesagentur für Arbeit bietet die kostenlose Broschüre [Orientierungshil
 
 ---
 
-<!-- nav:bottom -->← Zurück: [Checkliste für den Testtag](test-day-checklist.md) | Weiter: [Glossar](glossary.md) → | [Zurück zum Inhalt](../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [Checkliste für den Testtag](test-day-checklist.md) | Weiter: [Glossar](glossary.md) → | [Zurück zum Inhalt](../README.md#inhalt)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../README.md#inhalt) · Zurück: [So wird ausgewertet](scoring.md) · Weiter: [Lernpläne: 7 Tage und 2 Tage](study-plans.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../README.md#inhalt) · Zurück: [So wird ausgewertet](scoring.md) · Weiter: [Lernpläne: 7 Tage und 2 Tage](study-plans.md)
+<!-- /nav:top -->
 
 # Zeit und Tempo
 
@@ -51,4 +53,6 @@ Das Tempo lernst du nur mit Uhr. Mach mindestens zwei vollständige Durchgänge 
 
 ---
 
-<!-- nav:bottom -->← Zurück: [So wird ausgewertet](scoring.md) | Weiter: [Lernpläne: 7 Tage und 2 Tage](study-plans.md) → | [Zurück zum Inhalt](../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [So wird ausgewertet](scoring.md) | Weiter: [Lernpläne: 7 Tage und 2 Tage](study-plans.md) → | [Zurück zum Inhalt](../README.md#inhalt)
+<!-- /nav:bottom -->

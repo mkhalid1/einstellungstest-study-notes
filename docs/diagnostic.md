@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../README.md#inhalt) · Zurück: [Der Einstellungstest erklärt](test-overview.md) · Weiter: [Mathe](sections/mathe.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../README.md#inhalt) · Zurück: [Der Einstellungstest erklärt](test-overview.md) · Weiter: [Mathe](sections/mathe.md)
+<!-- /nav:top -->
 
 # 15-Minuten-Diagnose
 
@@ -138,4 +140,6 @@ Dann such dir einen Plan aus: den [7-Tage-Plan](study-plans.md#7-tage-plan), wen
 
 ---
 
-<!-- nav:bottom -->← Zurück: [Der Einstellungstest erklärt](test-overview.md) | Weiter: [Mathe](sections/mathe.md) → | [Zurück zum Inhalt](../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [Der Einstellungstest erklärt](test-overview.md) | Weiter: [Mathe](sections/mathe.md) → | [Zurück zum Inhalt](../README.md#inhalt)
+<!-- /nav:bottom -->

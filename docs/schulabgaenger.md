@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../README.md#inhalt) · Zurück: [Lernpläne: 7 Tage und 2 Tage](study-plans.md) · Weiter: [Checkliste für den Testtag](test-day-checklist.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../README.md#inhalt) · Zurück: [Lernpläne: 7 Tage und 2 Tage](study-plans.md) · Weiter: [Checkliste für den Testtag](test-day-checklist.md)
+<!-- /nav:top -->
 
 # Für Schulabgänger und Ausbildungsbewerber
 
@@ -64,4 +66,6 @@ Am meisten bringt ein Probedurchgang, bevor die erste Einladung kommt. Dann wei�
 
 ---
 
-<!-- nav:bottom -->← Zurück: [Lernpläne: 7 Tage und 2 Tage](study-plans.md) | Weiter: [Checkliste für den Testtag](test-day-checklist.md) → | [Zurück zum Inhalt](../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [Lernpläne: 7 Tage und 2 Tage](study-plans.md) | Weiter: [Checkliste für den Testtag](test-day-checklist.md) → | [Zurück zum Inhalt](../README.md#inhalt)
+<!-- /nav:bottom -->

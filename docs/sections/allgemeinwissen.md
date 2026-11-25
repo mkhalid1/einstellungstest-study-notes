@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../../README.md#inhalt) · Zurück: [Wortschatz und Analogien](wortschatz.md) · Weiter: [Konzentration](konzentration.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../../README.md#inhalt) · Zurück: [Wortschatz und Analogien](wortschatz.md) · Weiter: [Konzentration](konzentration.md)
+<!-- /nav:top -->
 
 # Allgemeinwissen
 
@@ -98,4 +100,6 @@ Allgemeinwissen lohnt sich in kleinen, regelmäßigen Portionen mehr als in eine
 
 ---
 
-<!-- nav:bottom -->← Zurück: [Wortschatz und Analogien](wortschatz.md) | Weiter: [Konzentration](konzentration.md) → | [Zurück zum Inhalt](../../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [Wortschatz und Analogien](wortschatz.md) | Weiter: [Konzentration](konzentration.md) → | [Zurück zum Inhalt](../../README.md#inhalt)
+<!-- /nav:bottom -->

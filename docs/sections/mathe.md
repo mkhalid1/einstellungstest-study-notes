@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../../README.md#inhalt) · Zurück: [15-Minuten-Diagnose](../diagnostic.md) · Weiter: [Logik und Zahlenreihen](logik.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../../README.md#inhalt) · Zurück: [15-Minuten-Diagnose](../diagnostic.md) · Weiter: [Logik und Zahlenreihen](logik.md)
+<!-- /nav:top -->
 
 # Mathe: Prozent, Dreisatz, Maßeinheiten, Textaufgaben
 
@@ -99,4 +101,6 @@ Unter Zeitdruck fühlt sich Mathe anders an. Probier die Aufgaben in einem volls
 
 ---
 
-<!-- nav:bottom -->← Zurück: [15-Minuten-Diagnose](../diagnostic.md) | Weiter: [Logik und Zahlenreihen](logik.md) → | [Zurück zum Inhalt](../../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [15-Minuten-Diagnose](../diagnostic.md) | Weiter: [Logik und Zahlenreihen](logik.md) → | [Zurück zum Inhalt](../../README.md#inhalt)
+<!-- /nav:bottom -->

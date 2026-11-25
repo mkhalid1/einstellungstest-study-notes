@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../README.md#inhalt) · Zurück: [Glossar](glossary.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../README.md#inhalt) · Zurück: [Glossar](glossary.md)
+<!-- /nav:top -->
 
 # Quellen
 
@@ -35,4 +37,6 @@ Diese Notizen sind unabhängig. Sie stehen in keiner Verbindung zur Bundesagentu
 
 ---
 
-<!-- nav:bottom -->← Zurück: [Glossar](glossary.md) | [Zurück zum Inhalt](../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [Glossar](glossary.md) | [Zurück zum Inhalt](../README.md#inhalt)
+<!-- /nav:bottom -->

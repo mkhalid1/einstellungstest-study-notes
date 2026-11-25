@@ -1,4 +1,6 @@
-<!-- nav:top -->[Inhalt](../README.md#inhalt) · Zurück: [Konzentration](sections/konzentration.md) · Weiter: [Zeit und Tempo](timing.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Inhalt](../README.md#inhalt) · Zurück: [Konzentration](sections/konzentration.md) · Weiter: [Zeit und Tempo](timing.md)
+<!-- /nav:top -->
 
 # So wird ausgewertet
 
@@ -48,4 +50,6 @@ Was du selbst steuern kannst:
 
 ---
 
-<!-- nav:bottom -->← Zurück: [Konzentration](sections/konzentration.md) | Weiter: [Zeit und Tempo](timing.md) → | [Zurück zum Inhalt](../README.md#inhalt)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Zurück: [Konzentration](sections/konzentration.md) | Weiter: [Zeit und Tempo](timing.md) → | [Zurück zum Inhalt](../README.md#inhalt)
+<!-- /nav:bottom -->
