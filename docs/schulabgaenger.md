@@ -62,7 +62,7 @@ Die Bundesagentur bietet kostenlose Unterstützung an, die viele nicht kennen:
 
 ## Vor der Bewerbung üben
 
-Am meisten bringt ein Probedurchgang, bevor die erste Einladung kommt. Dann weißt du, wo du stehst, und hast noch Zeit, Lücken zu schließen. Fang mit der [15-Minuten-Diagnose](diagnostic.md) an und mach danach den [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest) mit Uhr.
+Am meisten bringt ein Probedurchgang, bevor die erste Einladung kommt. Dann weißt du, wo du stehst, und hast noch Zeit, Lücken zu schließen. Fang mit der [15-Minuten-Diagnose](diagnostic.md) an und mach danach den [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest) mit Uhr.
 
 ---
 

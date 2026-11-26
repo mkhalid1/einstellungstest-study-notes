@@ -89,7 +89,7 @@ D) Ich weiß noch nicht ob ich morgen, zur Berufsschule fahre.
 
 </details>
 
-Mehr Übung? Der kostenlose Einstellungstest auf PrepClubs hat 45 Aufgaben in 45 Minuten, mit Lösung zu jeder Aufgabe: [Einstellungstest üben auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest).
+Mehr Übung? Der kostenlose Einstellungstest auf PrepClubs hat 45 Aufgaben in 45 Minuten, mit Lösung zu jeder Aufgabe: [Einstellungstest üben auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest).
 
 ## Werte dich aus
 
@@ -103,7 +103,7 @@ Mehr Übung? Der kostenlose Einstellungstest auf PrepClubs hat 45 Aufgaben in 45
 
 ## Nächster Schritt
 
-Rechtschreibung lässt sich gut nebenbei trainieren: Lies jeden Tag einen Zeitungsartikel aufmerksam und achte auf die Wörter, bei denen du unsicher wärst. Für einen gemischten Durchgang mit Uhr eignet sich der [kostenlose Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest).
+Rechtschreibung lässt sich gut nebenbei trainieren: Lies jeden Tag einen Zeitungsartikel aufmerksam und achte auf die Wörter, bei denen du unsicher wärst. Für einen gemischten Durchgang mit Uhr eignet sich der [kostenlose Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest).
 
 ---
 

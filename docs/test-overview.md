@@ -66,7 +66,7 @@ Die Bundesagentur fasst sie so zusammen: **möglichst zügig und möglichst gena
 
 ## Das Format üben
 
-Lesen allein reicht nicht. Mach mindestens einen vollständigen Durchgang mit Uhr, bevor du den echten Test schreibst, zum Beispiel den [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest). Die Bundesagentur bietet in ihrer Broschüre außerdem ein eigenes Aufgabenheft an, mit dem du zu zweit eine Testsituation nachspielen kannst.
+Lesen allein reicht nicht. Mach mindestens einen vollständigen Durchgang mit Uhr, bevor du den echten Test schreibst, zum Beispiel den [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest). Die Bundesagentur bietet in ihrer Broschüre außerdem ein eigenes Aufgabenheft an, mit dem du zu zweit eine Testsituation nachspielen kannst.
 
 ---
 

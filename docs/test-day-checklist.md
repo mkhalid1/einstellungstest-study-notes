@@ -42,7 +42,7 @@
 
 ## Die letzte Übung vor dem echten Test
 
-Ein vollständiger Durchgang mit Uhr zwei oder drei Tage vorher zeigt dir, ob dein Tempo passt. Der [kostenlose Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest) hat 45 Aufgaben in 45 Minuten.
+Ein vollständiger Durchgang mit Uhr zwei oder drei Tage vorher zeigt dir, ob dein Tempo passt. Der [kostenlose Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest) hat 45 Aufgaben in 45 Minuten.
 
 Quellen: [Bundesagentur für Arbeit, Orientierungshilfe zu Auswahltests](https://www.arbeitsagentur.de/bildung/datei/orientierungshilfe-auswahltests_ba025071.pdf), [Karrierecenter der Bundeswehr Erfurt](https://www.bundeswehr.de/resource/blob/5566266/0f604a14370913ec25277630a5d6139e/assessment-data.pdf).
 

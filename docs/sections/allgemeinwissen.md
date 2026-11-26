@@ -82,7 +82,7 @@ D) die Erhöhung des Leitzinses durch die Zentralbank
 
 </details>
 
-Mehr Übung? Der kostenlose Einstellungstest auf PrepClubs hat 45 Aufgaben in 45 Minuten, mit Lösung zu jeder Aufgabe: [Einstellungstest üben auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest).
+Mehr Übung? Der kostenlose Einstellungstest auf PrepClubs hat 45 Aufgaben in 45 Minuten, mit Lösung zu jeder Aufgabe: [Einstellungstest üben auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest).
 
 ## Werte dich aus
 
@@ -96,7 +96,7 @@ Mehr Übung? Der kostenlose Einstellungstest auf PrepClubs hat 45 Aufgaben in 45
 
 ## Nächster Schritt
 
-Allgemeinwissen lohnt sich in kleinen, regelmäßigen Portionen mehr als in einer langen Sitzung. Einen gemischten Durchgang mit Uhr findest du im [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest).
+Allgemeinwissen lohnt sich in kleinen, regelmäßigen Portionen mehr als in einer langen Sitzung. Einen gemischten Durchgang mit Uhr findest du im [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest).
 
 ---
 

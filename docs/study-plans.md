@@ -14,7 +14,7 @@ Zwei Pläne: einer für eine Woche, einer für den Fall, dass die Einladung scho
 | 2 | Mathe | Lies den [Mathe-Guide](sections/mathe.md) und mach alle 5 Aufgaben. Rechne danach 20 Minuten Kopfrechnen und Prozentaufgaben ohne Taschenrechner. |
 | 3 | Logik | Lies [Logik und Zahlenreihen](sections/logik.md). Lern das Prüfschema auswendig. Mach die 5 Aufgaben und schreib zu jedem Fehler, welcher Schritt gefehlt hat. |
 | 4 | Sprache und Wortschatz | Lies [Rechtschreibung und Grammatik](sections/sprache.md) und [Wortschatz und Analogien](sections/wortschatz.md). Mach beide Aufgabenblöcke. Schreib dir zehn Fremdwörter auf, bei denen du unsicher bist. |
-| 5 | Erster Durchgang mit Uhr | Mach einen vollständigen Probetest mit Uhr, zum Beispiel den [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest). Werte ihn nach Bereichen aus. Lies [Zeit und Tempo](timing.md). |
+| 5 | Erster Durchgang mit Uhr | Mach einen vollständigen Probetest mit Uhr, zum Beispiel den [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest). Werte ihn nach Bereichen aus. Lies [Zeit und Tempo](timing.md). |
 | 6 | Allgemeinwissen, Konzentration, Schwachstelle | Lies [Allgemeinwissen](sections/allgemeinwissen.md) und [Konzentration](sections/konzentration.md) und mach beide Aufgabenblöcke. Geh dann zurück zu deinem schwächsten Bereich und wiederhole die Fallen-Liste. |
 | 7 | Zweiter Durchgang und Pause | Mach morgens einen zweiten Probetest. Vergleiche mit Tag 5. Lies die [Checkliste für den Testtag](test-day-checklist.md). Hör am frühen Abend auf zu lernen. |
 
@@ -39,7 +39,7 @@ Für den Fall, dass der Test sehr bald ist.
 | 1 | 15 Min. | Mach die [Diagnose](diagnostic.md). |
 | 2 | 30 Min. | Lies in allen sechs Guides die Abschnitte „So gehst du vor“ und „Fallen, die Punkte kosten“. Den Rest überspringst du erst einmal. |
 | 3 | 40 Min. | Mach die Übungsaufgaben deiner zwei schwächsten Bereiche. Lies jede Erklärung, auch bei richtigen Antworten. |
-| 4 | 45 Min. | Mach einen vollständigen Probetest mit Uhr, zum Beispiel den [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest). |
+| 4 | 45 Min. | Mach einen vollständigen Probetest mit Uhr, zum Beispiel den [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest). |
 | 5 | 20 Min. | Werte jeden Fehler mit den drei Fragen oben aus. |
 
 ### Tag 2: der Test

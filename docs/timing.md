@@ -31,7 +31,7 @@ Weil die Dauer so unterschiedlich ist, rechnest du am besten pro Aufgabe. Als gr
 | Textaufgaben, schwere Zahlenreihen | bis zu einer Minute |
 | Konzentration | kein Richtwert pro Aufgabe, sondern gleichmäßiges Tempo über den ganzen Block |
 
-Ein Übungstest mit 45 Aufgaben in 45 Minuten, wie der [kostenlose Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest), gibt dir im Schnitt eine Minute pro Aufgabe. Schnelle Wissensfragen schaffen dir Luft für Mathe und Logik.
+Ein Übungstest mit 45 Aufgaben in 45 Minuten, wie der [kostenlose Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest), gibt dir im Schnitt eine Minute pro Aufgabe. Schnelle Wissensfragen schaffen dir Luft für Mathe und Logik.
 
 ## Ein Plan für jeden Testteil
 

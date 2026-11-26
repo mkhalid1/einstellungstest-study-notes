@@ -80,7 +80,7 @@ A) Gramm  B) Liter  C) Waage  D) Meter  E) Sekunde
 
 </details>
 
-Mehr Übung? Der kostenlose Einstellungstest auf PrepClubs hat 45 Aufgaben in 45 Minuten, mit Lösung zu jeder Aufgabe: [Einstellungstest üben auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest).
+Mehr Übung? Der kostenlose Einstellungstest auf PrepClubs hat 45 Aufgaben in 45 Minuten, mit Lösung zu jeder Aufgabe: [Einstellungstest üben auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest).
 
 ## Werte dich aus
 
@@ -94,7 +94,7 @@ Mehr Übung? Der kostenlose Einstellungstest auf PrepClubs hat 45 Aufgaben in 45
 
 ## Nächster Schritt
 
-Wortschatz wächst am schnellsten durch Lesen. Notiere dir unbekannte Wörter aus Zeitung oder Fachtexten deines Wunschberufs und schlag sie nach. Einen gemischten Durchgang mit Uhr findest du im [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest).
+Wortschatz wächst am schnellsten durch Lesen. Notiere dir unbekannte Wörter aus Zeitung oder Fachtexten deines Wunschberufs und schlag sie nach. Einen gemischten Durchgang mit Uhr findest du im [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest).
 
 ---
 

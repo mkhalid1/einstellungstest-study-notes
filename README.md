@@ -2,7 +2,7 @@
 
 Ein kostenloser, vollständiger Lernguide für den Einstellungstest bei Ausbildung, dualem Studium, öffentlichem Dienst, Polizei und Bundeswehr: wie solche Tests aufgebaut sind, eine klare Methode für jeden der sechs typischen Bereiche, 42 eigene Übungsaufgaben mit ausführlichen Lösungen, wie ausgewertet wird und Lernpläne für eine Woche oder ein Wochenende. Den einen Einstellungstest gibt es nicht, jeder Arbeitgeber nutzt seinen eigenen. Fakten stammen deshalb nur aus offiziellen Seiten von Bundesagentur für Arbeit, Behörden und Arbeitgebern, jede einzeln [belegt](docs/sources.md).
 
-Willst du zuerst wissen, wo du stehst? Mach den [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest) mit 45 Aufgaben in 45 Minuten oder die kürzere [15-Minuten-Diagnose](docs/diagnostic.md) hier im Repo.
+Willst du zuerst wissen, wo du stehst? Mach den [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest) mit 45 Aufgaben in 45 Minuten oder die kürzere [15-Minuten-Diagnose](docs/diagnostic.md) hier im Repo.
 
 ## Hier anfangen
 
@@ -185,7 +185,7 @@ Jeder Guide hat denselben Aufbau: was geprüft wird, wie die Aufgaben aussehen, 
 - **Ehrlich testen.** Die Lösungen sind unter „Lösungen und Erklärungen“ eingeklappt. Leg dich auf eine Antwort fest, bevor du sie aufklappst.
 - **Jede Erklärung lesen,** auch bei richtigen Antworten. Die meisten Erklärungen sagen, warum die naheliegende falsche Antwort falsch ist. Genau dort lernst du am meisten.
 - **Eine Fehlerliste führen.** Schreib zu jedem Fehler die Regel auf, die du verletzt hast. Wie das geht, steht in den [Lernplänen](docs/study-plans.md#so-wertest-du-einen-fehler-aus).
-- **Mit Uhr üben.** Die Notizen bringen dir die Methode bei. Das Tempo lernst du in einem Durchgang mit Uhr, zum Beispiel im [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest).
+- **Mit Uhr üben.** Die Notizen bringen dir die Methode bei. Das Tempo lernst du in einem Durchgang mit Uhr, zum Beispiel im [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest).
 - **Klonen oder forken,** wenn du dir eine eigene Kopie mit Notizen anlegen willst. Die Struktur funktioniert auch als GitBook-Space, siehe [SUMMARY.md](SUMMARY.md).
 
 ## Über die Übungsaufgaben

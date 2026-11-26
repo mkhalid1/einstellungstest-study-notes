@@ -83,7 +83,7 @@ A) 125  B) 130  C) 120  D) 140
 
 </details>
 
-Mehr Übung? Der kostenlose Einstellungstest auf PrepClubs hat 45 Aufgaben in 45 Minuten, mit Lösung zu jeder Aufgabe: [Einstellungstest üben auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest).
+Mehr Übung? Der kostenlose Einstellungstest auf PrepClubs hat 45 Aufgaben in 45 Minuten, mit Lösung zu jeder Aufgabe: [Einstellungstest üben auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest).
 
 ## Werte dich aus
 
@@ -97,7 +97,7 @@ Mehr Übung? Der kostenlose Einstellungstest auf PrepClubs hat 45 Aufgaben in 45
 
 ## Nächster Schritt
 
-Unter Zeitdruck fühlt sich Mathe anders an. Probier die Aufgaben in einem vollständigen Durchgang mit Uhr, zum Beispiel im [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest), und lies danach für jeden Fehler die Fallen-Liste oben.
+Unter Zeitdruck fühlt sich Mathe anders an. Probier die Aufgaben in einem vollständigen Durchgang mit Uhr, zum Beispiel im [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest), und lies danach für jeden Fehler die Fallen-Liste oben.
 
 ---
 

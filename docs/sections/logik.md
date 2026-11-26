@@ -97,7 +97,7 @@ D) Kein Auszubildender ohne Gabelstaplerschein arbeitet im Betrieb.
 
 </details>
 
-Mehr Übung? Der kostenlose Einstellungstest auf PrepClubs hat 45 Aufgaben in 45 Minuten, mit Lösung zu jeder Aufgabe: [Einstellungstest üben auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest).
+Mehr Übung? Der kostenlose Einstellungstest auf PrepClubs hat 45 Aufgaben in 45 Minuten, mit Lösung zu jeder Aufgabe: [Einstellungstest üben auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest).
 
 ## Werte dich aus
 
@@ -111,7 +111,7 @@ Mehr Übung? Der kostenlose Einstellungstest auf PrepClubs hat 45 Aufgaben in 45
 
 ## Nächster Schritt
 
-Zahlenreihen werden mit Übung deutlich schneller, weil sich die Regeltypen wiederholen. Mach einen Durchgang mit Uhr im [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest) und notiere dir bei jedem Fehler, welcher Schritt des Schemas gefehlt hat.
+Zahlenreihen werden mit Übung deutlich schneller, weil sich die Regeltypen wiederholen. Mach einen Durchgang mit Uhr im [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest) und notiere dir bei jedem Fehler, welcher Schritt des Schemas gefehlt hat.
 
 ---
 

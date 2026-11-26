@@ -8,7 +8,7 @@ Zwölf eigene Aufgaben, zwei aus jedem Bereich, damit du siehst, wo du anfangen 
 
 Diese Aufgaben sind eigens für diese Notizen geschrieben. Sie stammen nicht aus einem echten Einstellungstest.
 
-Wenn du die Aufgabentypen schon kennst, kannst du stattdessen gleich den [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest) machen. Ein voller Durchgang mit Uhr zeigt dir besser, wie du mit dem Tempo zurechtkommst.
+Wenn du die Aufgabentypen schon kennst, kannst du stattdessen gleich den [kostenlosen Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest) machen. Ein voller Durchgang mit Uhr zeigt dir besser, wie du mit dem Tempo zurechtkommst.
 
 ## Teil A: Mathe
 

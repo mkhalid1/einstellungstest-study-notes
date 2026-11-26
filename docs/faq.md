@@ -48,7 +48,7 @@ Nein. Weder Betriebe noch Behörden veröffentlichen in der Regel Durchfallquote
 
 ## Wo kann ich kostenlos üben?
 
-Die Bundesagentur für Arbeit bietet die kostenlose Broschüre [Orientierungshilfe zu Auswahltests](https://www.arbeitsagentur.de/bildung/datei/orientierungshilfe-auswahltests_ba025071.pdf) mit Übungsaufgaben, Lösungen und einem Aufgabenheft an. In diesen Notizen findest du 42 eigene Übungsaufgaben mit Erklärungen. Einen vollständigen Durchgang mit Uhr bietet der [kostenlose Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=einstellungstest) mit 45 Aufgaben in 45 Minuten.
+Die Bundesagentur für Arbeit bietet die kostenlose Broschüre [Orientierungshilfe zu Auswahltests](https://www.arbeitsagentur.de/bildung/datei/orientierungshilfe-auswahltests_ba025071.pdf) mit Übungsaufgaben, Lösungen und einem Aufgabenheft an. In diesen Notizen findest du 42 eigene Übungsaufgaben mit Erklärungen. Einen vollständigen Durchgang mit Uhr bietet der [kostenlose Einstellungstest auf PrepClubs](https://prepclubs.com/de/einstellungstest-ueben?utm_source=github&utm_medium=referral&utm_campaign=seg7eb&utm_content=einstellungstest) mit 45 Aufgaben in 45 Minuten.
 
 ---
 
